@@ -1,8 +1,9 @@
 {
   "name": "color-spotlight",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Gets the most prominent colour of an image",
   "main": "index.js",
+  "repository": "https://github.com/shanerrr/color-spotlight",
   "scripts": {
     "test": "jest"
   },
