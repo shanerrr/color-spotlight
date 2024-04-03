@@ -1,4 +1,5 @@
 # color-spotlight
+[![https://nodei.co/npm/color-spotlight.png?downloads=true&downloadRank=true&stars=true](https://nodei.co/npm/color-spotlight.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/color-spotlight)
 
 ## Overview
 
