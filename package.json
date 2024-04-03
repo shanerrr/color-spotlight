@@ -1,6 +1,6 @@
 {
   "name": "color-spotlight",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Gets the most prominent colour of an image",
   "main": "index.js",
   "scripts": {
@@ -10,5 +10,10 @@
   "license": "MIT",
   "dependencies": {
     "canvas": "^2.11.2"
-  }
+  },
+  "keywords": [
+    "color",
+    "image",
+    "color-prominence"
+  ]
 }
