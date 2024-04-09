@@ -1,4 +1,5 @@
 # color-spotlight
+
 [![https://nodei.co/npm/color-spotlight.png?downloads=true&downloadRank=true&stars=true](https://nodei.co/npm/color-spotlight.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/color-spotlight)
 
 ## Overview
@@ -36,6 +37,7 @@ spotlight(imageUrl)
   .catch((error) => {
     console.error("Error:", error.message);
   });
-```
 
-Feel free to further customize the README.md to fit the specifics of your project or add any additional information you think would be helpful for users.
+// or using async/await
+const { rgb, hex } = await spotlight(imageUrl);
+```
